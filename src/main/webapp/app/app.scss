@@ -2,7 +2,7 @@
 // Import Bootstrap source files from node_modules
 @import 'node_modules/bootstrap/scss/bootstrap';
 body {
-  background: #fafafa;
+  background: #9ec0d8;
   margin: 0;
 }
 
@@ -23,6 +23,7 @@ a {
 
 .app-container {
   box-sizing: border-box;
+
   .view-container {
     width: 100%;
     height: calc(100% - 40px);
@@ -104,7 +105,7 @@ Generic styles
 }
 
 .shadow {
-  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
+  box-shadow: rgba(0, 132, 240, 0.12) 0px 1px 6px, rgba(0, 132, 240, 0.12) 0px 1px 4px;
   border-radius: 2px;
 }
 

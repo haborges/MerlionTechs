@@ -1,0 +1,166 @@
+.table-responsive {
+  background: white;
+  color: gray;
+}
+.titulo1 {
+  color: #2a6a9e;
+  padding-top: 30px;
+  font-size: 50px;
+  font-style: bold;
+}
+.boton1 {
+  background: #2a6a9e;
+  color: white;
+}
+.boton1:hover {
+  background: #5e99c5;
+  opacity: 0.5px;
+  color: white;
+}
+.btnBorrar {
+  background: white;
+  border-radius: 50px;
+}
+.textBtn {
+  color: black;
+}
+.textBtn:hover {
+  color: white;
+}
+
+.btnedit {
+  background: #2a6a9e;
+  margin-right: 15px;
+  border-radius: 50px;
+}
+.btnview {
+  background: white;
+  margin-right: 15px;
+  border-radius: 50px;
+}
+.textview {
+  color: black;
+  margin-right: 15px;
+}
+.textview:hover {
+  color: white;
+}
+.tabla {
+  color: #5e99c5;
+}
+.id {
+  color: #5e99c5;
+}
+.state {
+  color: #5e99c5;
+}
+.num {
+  color: gray;
+  background: transparent;
+  border: none;
+}
+.num:hover {
+  background: #5e99c5;
+  opacity: 0.5px;
+}
+.basura {
+  color: #2a6a9e;
+}
+.basura:hover {
+  color: white !important;
+}
+.ojo {
+  color: #2a6a9e;
+}
+.ojo:hover {
+  color: white;
+}
+.descripcion {
+  color: #2a6a9e;
+  font-size: 20px;
+}
+.estado {
+  font-size: 20px;
+}
+.fecha {
+  color: #2a6a9e;
+}
+/* sales details */
+.venta-detail {
+  color: #2a6a9e;
+  font-size: 50px;
+  font-style: bold;
+}
+.descripcion-detail {
+  color: #5e99c5;
+  font-size: 20px;
+}
+.estado-detail {
+  color: #5e99c5;
+  font-size: 20px;
+}
+.fecha-detail {
+  color: #5e99c5;
+  font-size: 20px;
+}
+.botonBack-details {
+  background: #5e99c5;
+}
+.botonBack-details:hover {
+  background: gray;
+  opacity: 0.5;
+}
+
+.botonEdit-detail {
+  background: #2a6a9e;
+}
+.botonEdit-detail:hover {
+  background: gray;
+  opacity: 0.5;
+}
+/* estilos updates sales */
+.titulo-salesedit {
+  color: #2a6a9e;
+  font-size: 40px;
+  font-style: bold;
+}
+.btn-updatesave {
+  background: #2a6e9e;
+}
+.btn-updateback {
+  background: #5e99c5;
+}
+.titulo-id {
+  color: #5e99c5;
+  font-size: 20px;
+}
+.titulo-descrip {
+  color: #5e99c5;
+  font-size: 20px;
+}
+.titulo-state {
+  color: #5e99c5;
+  font-size: 20px;
+}
+.titulo-date {
+  color: #5e99c5;
+  font-size: 20px;
+}
+/* sales remove */
+.confirm-delate {
+  color: #2a6a9e;
+  font-size: 30px;
+}
+.sub-delete {
+  color: #5e99c5;
+  fint-size: 25px;
+}
+.btn-deletesales {
+  background: #2a6a9e;
+}
+.btn-deletesales:hover {
+  background: red;
+}
+.btn-cancelar {
+  background: #5e99c5;
+}
